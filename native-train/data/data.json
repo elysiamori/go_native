@@ -1,0 +1,74 @@
+{
+    "libraries" : [
+          {
+            "title": "Programming in C",
+            "description": "A comprehensive guide to C programming",
+            "date": "2020-01-15",
+            "id": "1",
+            "uuid": "c2d1b7c6-2a75-4b2e-9d9c-2d0d0a7b3c5e"
+          },
+          {
+            "title": "Python Crash Course",
+            "description": "A hands-on, project-based introduction to Python programming",
+            "date": "2019-05-01",
+            "id": "2",
+            "uuid": "e0d1f6c5-3b84-4a1e-8d8d-1e0e9b2a3d4c"
+          },
+          {
+            "title": "JavaScript: The Good Parts",
+            "description": "Unearthing the excellence in JavaScript programming",
+            "date": "2008-05-01",
+            "id": "3",
+            "uuid": "a4b3c2d1-5e6f-4d3c-8d8d-9b0a1e2f3g4"
+          },
+          {
+            "title": "Learning React",
+            "description": "A hands-on guide to building web applications with React",
+            "date": "2017-02-15",
+            "id": "4",
+            "uuid": "c6d5e4f3-1a2b-3c4d-5e6f-7g8h9i0j1k2"
+          },
+          {
+            "title": "Java: A Beginner's Guide",
+            "description": "A comprehensive introduction to Java programming",
+            "date": "2019-09-01",
+            "id": "5",
+            "uuid": "e2f1g0h9-3i4j-5k6l-6m7n-8o9p0q1r2s3"
+          },
+          {
+            "title": "C# in Depth",
+            "description": "Exploring the depths of C# programming",
+            "date": "2018-03-01",
+            "id": "6",
+            "uuid": "d3c2b1a0-4n5m-6l7k-7j8i-9h0g1f2e3d"
+          },
+          {
+            "title": "Ruby on Rails Tutorial",
+            "description": "Learn web development with Ruby on Rails",
+            "date": "2016-07-01",
+            "id": "7",
+            "uuid": "b4c3d2e1-5f6g-7h8i-8j9k-0l1m2n3o4p"
+          },
+          {
+            "title": "PHP Objects, Patterns, and Practice",
+            "description": "Building solid, flexible, and maintainable PHP applications",
+            "date": "2019-11-15",
+            "id": "8",
+            "uuid": "a5b4c3d2-6e7f-8g9h-9i0j-1k2l3m4n5o"
+          },
+          {
+            "title": "Scala for the Impatient",
+            "description": "A concise guide to Scala programming",
+            "date": "2017-06-01",
+            "id": "9",
+            "uuid": "f6e5d4c3-7b8a-9n0m-0l1k-2j3i4h5g6f"
+          },
+          {
+            "title": "HTML and CSS: Design and Build Websites",
+            "description": "A beginner's guide to HTML and CSS",
+            "date": "2014-11-01",
+            "id": "10",
+            "uuid": "e7f8g9h0-1i2j-3k4l-5m6n-7o8p9q0r1s"
+          }
+    ]
+}
